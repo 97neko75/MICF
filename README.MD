@@ -1,7 +1,8 @@
 # MICF – 才…才不是给你用的内核呢！
 
-> 一个能读写 FAT32、会卖萌的操作系统内核。  
-> 虽然名字叫 Microkernel formal FobOS，但其实已经是宏内核了啦～别问为什么，问就是杂鱼。
+一个能读写 FAT32、会卖萌的操作系统内核。 
+
+虽然名字叫 Microkernel formal FobOS，但其实已经是宏内核了啦～别问为什么，问就是杂鱼。
 
 ## 这玩意儿能干啥？
 
@@ -34,6 +35,7 @@
 
 ```bash
 qemu-system-i386 -kernel micf.elf -hda disk.img
+```
 
 ## 版权声明
 
