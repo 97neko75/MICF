@@ -30,10 +30,12 @@
 ## 怎么编译？
 
 你该不会连 i686-elf-gcc 都没有吧？  
-有的话，双击 `build.bat` 
-就能生成  `micf.elf`。  
-然后执行：
 
+有的话，双击 `build.bat` 
+
+就能生成  `micf.elf`。
+
+然后执行：
 ```bash
 qemu-system-i386 -kernel micf.elf -hda disk.img
 ```
