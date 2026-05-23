@@ -37,7 +37,7 @@
 
 然后执行：
 ```bash
-qemu-system-i386 -kernel micf.elf -hda disk.img
+qemu-system-i386 -kernel micf.elf
 ```
 
 ## 版权声明
