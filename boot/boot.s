@@ -24,3 +24,36 @@ _start:
 .space 4096
 stack_top:
 
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
+;zhushi
