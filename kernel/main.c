@@ -1,6 +1,7 @@
 #include <common.h>
 #include "arch/gdt.h"
 #include "arch/idt.h"
+#include "arch/paging.h"
 #include "mm/pmm.h"
 #include "task/process.h"
 #include "ipc/ipc.h"
@@ -170,7 +171,10 @@ void kernel_main(void) {
         "mov $0x3D5, %%dx\n mov $0, %%al\n out %%al, %%dx\n"
         : : : "eax", "edx"
     );
-    print("MICF Kernel v0.5.0 (with delete and rmdir)\n");
+    pmm_init(640, 1024 * 16);
+    paging_init();
+    paging_enable();
+    print("MICF Kernel v0.6.0 (with delete and rmdir)\n");
     print("Type 'help' for commands.\n");
     keyboard_init();
     ata_init();

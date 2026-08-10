@@ -23,3 +23,4 @@ _start:
 .section .bss
 .space 4096
 stack_top:
+
