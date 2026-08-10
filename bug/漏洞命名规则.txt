@@ -3,7 +3,3 @@
 类型	                                                      memleak / nullptr / oob / uaf / multidisk 等	                multidisk
 年份日期	                                                      YYYYMMDD	                                                                20260811
 编号	                                                      当日同类漏洞递增	                                                001
-
-
-现有类型：
-memleak / nullptr / oob / uaf / multidisk/ fakereboot等
