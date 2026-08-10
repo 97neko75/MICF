@@ -174,7 +174,7 @@ void kernel_main(void) {
     pmm_init(640, 1024 * 16);
     paging_init();
     paging_enable();
-    print("MICF Kernel v0.6.0 (with delete and rmdir)\n");
+    print("MICF Kernel v0.6.0\n");
     print("Type 'help' for commands.\n");
     keyboard_init();
     ata_init();
