@@ -54,6 +54,8 @@ qemu-system-i386 -kernel micf.elf
 
 （点 Star 的人会变可爱哦～）
 
+请关注'bug'
+
 ## 注意
 
 项目已进入深度休眠，作者正在摸鱼
