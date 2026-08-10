@@ -6,4 +6,4 @@
 
 
 现有类型：
-memleak / nullptr / oob / uaf / multidisk等
+memleak / nullptr / oob / uaf / multidisk/ fakereboot等
