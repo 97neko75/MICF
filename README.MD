@@ -46,7 +46,7 @@ qemu-system-i386 -kernel micf.elf
 
 ## 开源许可证
 
-MIT —— 爱改改，爱抄抄，别把锅甩给我。
+你看看那上面！
 
 ## 最后
 
