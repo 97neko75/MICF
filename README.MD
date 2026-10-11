@@ -57,7 +57,7 @@ qemu-system-i386 -kernel micf.elf
 
 ## 注意
 
-项目已进入深度休眠，作者正在摸鱼
+项目已被作者放弃
 
 
 ## MICF酱 官方宣言
